@@ -94,9 +94,9 @@ export default function Menu() {
             </StyledMenuButton>
             {open && (
                 <MenuFlyout>
-                    <MenuItem id="link" href="https://bscscan.com/">
+                    <MenuItem id="link" href="https://selltoken.org/">
                         <Chrome size={14} />
-                        {t('mbeBrowser')}
+                        {t('mbeWebsite')}
                     </MenuItem>
                 </MenuFlyout>
             )}
