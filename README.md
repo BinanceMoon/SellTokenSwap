@@ -43,4 +43,4 @@ CI checks will run against all PRs.
 ## Accessing SellToken Interface V1
 
 The SellToken Interface supports swapping against, and migrating or removing liquidity from SellToken V1. However,
-if you would like to use Uniswap V1, the Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways 
+if you would like to use SellToken V1, the Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways 
