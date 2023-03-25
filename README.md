@@ -40,7 +40,7 @@ The interface will not work on other networks.
 **Please open all pull requests against the `master` branch.** 
 CI checks will run against all PRs.
 
-## Accessing Uniswap Interface V1
+## Accessing SellToken Interface V1
 
 The SellToken Interface supports swapping against, and migrating or removing liquidity from SellToken V1. However,
 if you would like to use Uniswap V1, the Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways 
