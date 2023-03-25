@@ -1,30 +1,13 @@
-# Uniswap Interface
+# sellTokenSwap Interface
 
-[![Tests](https://github.com/Uniswap/uniswap-interface/workflows/Tests/badge.svg)](https://github.com/Uniswap/uniswap-interface/actions?query=workflow%3ATests)
-[![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 
-An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
+- Website: [uniswap.org](https://selltoken.org)
+- Interface: [app.uniswap.org](https://app.selltoken.org)
+- Twitter: [@TrustTheTrident](https://twitter.com/TrustTheTrident)
+- Email: [info@selltoken.org](info@selltoken.org)
+- Discord: [SellToken](https://discord.gg/hnGd6VTd)
+- Whitepaper: [Link](https://selltoken.org/Whitepaper.pdf)
 
-- Website: [uniswap.org](https://uniswap.org/)
-- Interface: [app.uniswap.org](https://app.uniswap.org)
-- Docs: [uniswap.org/docs/](https://uniswap.org/docs/)
-- Twitter: [@UniswapProtocol](https://twitter.com/UniswapProtocol)
-- Reddit: [/r/Uniswap](https://www.reddit.com/r/Uniswap/)
-- Email: [contact@uniswap.org](mailto:contact@uniswap.org)
-- Discord: [Uniswap](https://discord.gg/Y7TF6QA)
-- Whitepaper: [Link](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
-
-## Accessing the Uniswap Interface
-
-To access the Uniswap Interface, use an IPFS gateway link from the
-[latest release](https://github.com/Uniswap/uniswap-interface/releases/latest), 
-or visit [app.uniswap.org](https://app.uniswap.org).
-
-## Listing a token
-
-Please see the
-[@uniswap/default-token-list](https://github.com/uniswap/default-token-list) 
-repository.
 
 ## Development
 
